@@ -1,5 +1,5 @@
 # Python-Algo_v1
-Python Practice 
+Python Practice: 
 In this repo you will complete each problem inside of the Algos folder
 # Main.py
 Use this problem as an example
